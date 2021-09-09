@@ -7,5 +7,5 @@ Install
 ==================
 Assuming the PhoneGap CLI is installed, from the command line run:
 
-cordova plugins add https://github.com/leohenning/KeepScreenOnPlugin
+cordova plugins add https://github.com/chogis/KeepScreenOnPlugin
 
