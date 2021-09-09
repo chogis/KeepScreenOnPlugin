@@ -1,0 +1,32 @@
+{
+  "name": "KeepScreenOn",
+  "version": "0.0.1",
+  "description": "Function to turn on and off screen sleep timer",
+  "cordova": {
+    "id": "cordova-plugin-KeepScreenOn",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leohenning/KeepScreenOnPlugin.git"
+  },
+  "keywords": [
+    "ussd",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Chogis <chogis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leohenning/KeepScreenOnPlugin/issues"
+  },
+  "homepage": "https://github.com/leohenning/KeepScreenOnPlugin"
+}
