@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leohenning/KeepScreenOnPlugin.git"
+    "url": "git+https://github.com/chogis/KeepScreenOnPlugin.git"
   },
   "keywords": [
     "ussd",
@@ -26,7 +26,7 @@
   "author": "Chogis <chogis@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leohenning/KeepScreenOnPlugin/issues"
+    "url": "https://github.com/chogis/KeepScreenOnPlugin/issues"
   },
-  "homepage": "https://github.com/leohenning/KeepScreenOnPlugin"
+  "homepage": "https://github.com/chogis/KeepScreenOnPlugin"
 }
